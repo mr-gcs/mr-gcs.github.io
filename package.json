@@ -1,0 +1,16 @@
+{
+  "name": "optimize",
+  "version": "1.0.0",
+  "scripts": {
+    "optimize-images": "imagemin --out-dir=./public img/*",
+    "minify-assets": "npm-run-all --parallel minify-css minify-js",
+    "minify-css": "cleancss --output ./public/css --source-map ./public/css/*.css",
+    "minify-js": "terser --output ./public/js --source-map ./public/js/*.js"
+  },
+  "devDependencies": {
+    "imagemin": "^8.0.1",
+    "npm-run-all": "^4.1.5",
+    "cleancss": "^5.2.2",
+    "terser": "^5.1.4"
+  }
+}
