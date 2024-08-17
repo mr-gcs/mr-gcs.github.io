@@ -1,0 +1,36 @@
+name: Optimize Static Assets
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Optimize images
+      run: npm run optimize-images
+
+    - name: Minify CSS/JS
+      run: npm run minify-assets
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.nore督查.github.com'
+        git add .
+        git commit -m "Optimize static assets"
+        git push
