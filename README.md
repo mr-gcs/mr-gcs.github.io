@@ -2,14 +2,15 @@
 <strong><h2>成烁の主页 </h2></strong>
 </p>
 
-![成烁の主页](https://img.imsyy.top/other/imsyy-home.png)
+![成烁的主要页](https://img.imsyy.top/other/imsyy-home.png)
 
->主页的名称字体已经过压缩，若用名称以外的字母会变回默认字体，这里是 [完整字体](https://cdn.jsdelivr.net/gh/imsyy/file/font/Pacifico-Regular.ttf)
+>由于网站可能正在运营维护，暂时可能无法恢复你可以通过这里查看具体原因，并获知何时可以恢复。
+<a href="https://txc.qq.com/products/671005">详细信息</a>
 
 ### Demo
 >由于 CDN 缓存原因，查看最新效果可能需要 `Ctrl` + `F5` 强制刷新浏览器缓存
 
-- [成烁の主页](https://chengshuo11.github.io/)
+- [成烁的主要页](https://chengshuo11.github.io/)
 
 ### 功能
 
