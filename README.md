@@ -3,11 +3,11 @@
 </p>
 
 <h5>由于网站可能正在运营维护，暂时可能无法恢复你可以通过这里查看具体原因，并获知何时可以恢复。</h5>
-<h3><a href="https://txc.qq.com/products/671005">详细信息</a></h3>
+<a href="https://txc.qq.com/products/671005">详细信息</a>
 <br>
-<br>
-<br><hr>
-<h4>以下是关于本站的一些信息</h4>
+
+
+<strong>以下是关于本站的一些信息</strong>
 <br>
 
 
