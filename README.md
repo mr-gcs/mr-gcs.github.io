@@ -2,7 +2,7 @@
 <strong><h2>成烁の主页 </h2></strong>
 </p>
 
-![成烁的主要页](https://img.imsyy.top/other/imsyy-home.png)
+![为什么出现这个页面]
 
 >由于网站可能正在运营维护，暂时可能无法恢复你可以通过这里查看具体原因，并获知何时可以恢复。
 <a href="https://txc.qq.com/products/671005">详细信息</a>
